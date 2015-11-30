@@ -9,7 +9,7 @@
         "maiorIgualZero": [1],
         "irrestrita": [4]
     },
-    "restricoes": {
+    "restricoes": {	
         "menorIgual": {
           "me1":[3,-2,1,0],
           "me2":[1,9,-2,3]
